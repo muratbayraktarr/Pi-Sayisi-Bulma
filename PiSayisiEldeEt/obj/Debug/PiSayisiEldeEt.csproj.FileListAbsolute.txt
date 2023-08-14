@@ -1,0 +1,8 @@
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\bin\Debug\PiSayisiEldeEt.exe.config
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\bin\Debug\PiSayisiEldeEt.exe
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\bin\Debug\PiSayisiEldeEt.pdb
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\obj\Debug\PiSayisiEldeEt.csproj.AssemblyReference.cache
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\obj\Debug\PiSayisiEldeEt.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\obj\Debug\PiSayisiEldeEt.csproj.CoreCompileInputs.cache
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\obj\Debug\PiSayisiEldeEt.exe
+C:\Users\ByMazarat\source\repos\PiSayisiEldeEt\obj\Debug\PiSayisiEldeEt.pdb
